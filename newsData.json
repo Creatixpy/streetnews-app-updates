@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Atualização do Fortnite traz novas skins",
+    "date": "20 de Setembro de 2024",
+    "content": "A nova atualização do Fortnite traz várias skins e melhorias...",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "2",
+    "title": "Evento Free Fire traz recompensas exclusivas",
+    "date": "19 de Setembro de 2024",
+    "content": "O novo evento do Free Fire está cheio de recompensas exclusivas...",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "3",
+    "title": "Novidades do Roblox: Jogos mais populares de 2024",
+    "date": "18 de Setembro de 2024",
+    "content": "Confira os jogos mais populares do Roblox em 2024...",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "4",
+    "title": "Minecraft recebe novos mods",
+    "date": "17 de Setembro de 2024",
+    "content": "A comunidade de Minecraft lança novos mods com funcionalidades incríveis...",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  }
+]
