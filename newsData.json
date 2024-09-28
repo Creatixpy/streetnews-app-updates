@@ -30,5 +30,21 @@
     "content": "A comunidade de Minecraft lançou novos mods que adicionam funcionalidades e aprimoramentos visuais, mantendo o jogo sempre atualizado.",
     "image": "https://via.placeholder.com/150",
     "category": "Minecraft"
+  },
+  {
+    "id": "5",
+    "title": "Free Fire lança atualização OB46",
+    "date": "27 de Setembro de 2024",
+    "content": "A nova atualização OB46 do Free Fire traz diversas melhorias, incluindo novos modos de jogo e ajustes na jogabilidade. Códigos exclusivos para itens, como a skin M1014 Estilhaço do Escorpião, também foram liberados.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "6",
+    "title": "Minecraft recebe atualização Tricky Trials",
+    "date": "Setembro de 2024",
+    "content": "A atualização Tricky Trials adiciona novas skins e pacotes de texturas no Marketplace, além de trazer melhorias nas mecânicas de jogabilidade. O modo Minecraft Legends continua recebendo atualizações focadas em ação e estratégia.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
   }
 ]
