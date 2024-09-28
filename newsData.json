@@ -46,5 +46,37 @@
     "content": "A atualização Tricky Trials adiciona novas skins e pacotes de texturas no Marketplace, além de trazer melhorias nas mecânicas de jogabilidade. O modo Minecraft Legends continua recebendo atualizações focadas em ação e estratégia.",
     "image": "https://via.placeholder.com/150",
     "category": "Minecraft"
+  },
+  {
+    "id": "7",
+    "title": "Colaboração Fortnite x Star Wars atrai milhões de jogadores",
+    "date": "Setembro de 2024",
+    "content": "O crossover entre Fortnite e Star Wars introduziu skins dos personagens da franquia e modos de jogo exclusivos. O evento é um dos maiores do ano para Fortnite.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "8",
+    "title": "Nova expansão de Minecraft 1.21 adiciona criaturas e biomas",
+    "date": "Setembro de 2024",
+    "content": "A versão 1.21 de Minecraft adiciona a criatura 'Watcher' e o bioma da Árvore Ancestral, tornando o jogo ainda mais desafiador e expandindo suas possibilidades.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "9",
+    "title": "Roblox Championship 2024 reúne milhões de espectadores",
+    "date": "Setembro de 2024",
+    "content": "O evento Roblox Championship 2024 foi um sucesso, com torneios ao vivo de jogos criados pela comunidade e grande engajamento de espectadores.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "10",
+    "title": "Free Fire adiciona pacote de skins de Homem-Aranha",
+    "date": "Setembro de 2024",
+    "content": "O novo pacote de skins de Homem-Aranha em Free Fire, parte do evento de colaboração com o filme 'Através do Aranhaverso', traz várias recompensas e desafios.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
   }
 ]
