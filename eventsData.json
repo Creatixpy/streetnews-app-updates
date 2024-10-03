@@ -4,14 +4,14 @@
     "title": "Evento da Guilda - Torneio de Batalha",
     "description": "Um torneio de batalhas épicas entre os membros da guilda.",
     "date": "2024-10-15",
-    "highlighted": true
+    "highlighted": false
   },
   {
     "id": "2",
     "title": "Encontro da Guilda - Missão em Grupo",
     "description": "Formação de equipes para realizar uma missão em grupo em território desconhecido.",
     "date": "2024-11-02",
-    "highlighted": false
+    "highlighted": true
   },
   {
     "id": "3",
