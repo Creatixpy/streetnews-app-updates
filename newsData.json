@@ -38,5 +38,61 @@
     "content": "No final de setembro de 2024, Free Fire lançou a aguardada atualização OB46. Essa atualização trouxe mudanças importantes na jogabilidade, novos modos de jogo e diversos ajustes para equilibrar o combate. Além disso, a atualização disponibilizou códigos especiais para desbloquear itens exclusivos, como a skin M1014 Estilhaço do Escorpião, que rapidamente se tornou uma das favoritas entre os jogadores.",
     "image": "https://via.placeholder.com/150",
     "category": "Free Fire"
+  },
+  {
+    "id": "7",
+    "title": "Capítulo 2 Remixado: A próxima temporada, intitulada 'Capítulo 2 Remixado', está programada para novembro de 2024, prometendo misturar nostalgia com inovação.",
+    "date": "25 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "8",
+    "title": "Modo Primeira Pessoa Experimental: O Fortnite introduziu um modo de primeira pessoa como funcionalidade experimental no Unreal Editor for Fortnite (UEFN) e no Modo Criativo, permitindo novas perspectivas de jogo.",
+    "date": "28 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "9",
+    "title": "Ferramentas de Controle Parental: A Epic Games lançou ferramentas que permitem aos pais definir limites de tempo de jogo para seus filhos, incluindo notificações de 30 minutos antes do término do período permitido.",
+    "date": "29 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "10",
+    "title": "Atualização 1.21 'Mistérios Subterrâneos': A Mojang lançou a atualização 1.21, que introduz novas cavernas, mobs e minerais raros, visando ampliar a experiência de exploração dos jogadores.",
+    "date": "30 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "11",
+    "title": "Evento 'Fúria das Sombras': A Garena revelou o evento 'Fúria das Sombras', que apresenta um novo personagem com habilidades especiais e modos de jogo temporários, oferecendo recompensas exclusivas.",
+    "date": "27 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "12",
+    "title": "Metaverso Interoperável: A Epic Games planeja incorporar elementos de Roblox em um metaverso interoperável, permitindo que jogadores interajam e compartilhem ativos digitais entre diferentes jogos.",
+    "date": "29 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "13",
+    "title": "Ferramentas Avançadas para Desenvolvedores: A plataforma Roblox anunciou a implementação de ferramentas avançadas, incluindo suporte a realidade virtual e melhorias na física do jogo, visando experiências mais imersivas.",
+    "date": "30 de outubro de 2024",
+    "content": "Fonte",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
   }
 ]
