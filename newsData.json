@@ -94,5 +94,165 @@
     "content": "A plataforma Roblox anunciou a implementação de ferramentas avançadas, incluindo suporte a realidade virtual e melhorias na física do jogo, visando experiências mais imersivas.",
     "image": "https://via.placeholder.com/150",
     "category": "Roblox"
+  },
+  {
+    "id": "14",
+    "title": "Minecraft lança atualização 1.21 com novos biomas",
+    "date": "28/10/2024",
+    "content": "A Mojang lançou a atualização 1.21 do Minecraft, introduzindo novos biomas como florestas de bambu e cavernas de cristal, além de novos mobs e itens exclusivos.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "15",
+    "title": "Evento de Halloween no Minecraft traz skins exclusivas",
+    "date": "27/10/2024",
+    "content": "Em celebração ao Halloween, o Minecraft lançou um evento temático com skins exclusivas, desafios especiais e decorações assustadoras para os jogadores aproveitarem.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "16",
+    "title": "Minecraft Education Edition adiciona recursos de IA para aprendizado",
+    "date": "25/10/2024",
+    "content": "A versão educacional do Minecraft incorporou ferramentas de inteligência artificial para auxiliar no ensino de programação e resolução de problemas, oferecendo uma experiência mais interativa para os estudantes.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "17",
+    "title": "Mojang anuncia colaboração com estúdio indie para novo DLC",
+    "date": "23/10/2024",
+    "content": "A Mojang revelou uma parceria com um estúdio indie para desenvolver um novo DLC que trará uma narrativa inédita e mecânicas de jogo inovadoras ao Minecraft.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "18",
+    "title": "Minecraft atinge 300 milhões de cópias vendidas mundialmente",
+    "date": "20/10/2024",
+    "content": "O Minecraft alcançou a marca de 300 milhões de cópias vendidas globalmente, consolidando-se como um dos jogos mais vendidos de todos os tempos.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Minecraft"
+  },
+  {
+    "id": "19",
+    "title": "Fortnite introduz modo de jogo inspirado em Among Us",
+    "date": "29/10/2024",
+    "content": "A Epic Games adicionou ao Fortnite um novo modo de jogo chamado 'Impostores', inspirado no popular Among Us, onde jogadores devem completar tarefas enquanto identificam impostores entre eles.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "20",
+    "title": "Novo Passe de Batalha do Fortnite inclui skins de super-heróis",
+    "date": "28/10/2024",
+    "content": "O mais recente Passe de Batalha do Fortnite apresenta skins de super-heróis famosos, permitindo que os jogadores personalizem seus personagens com trajes icônicos.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "21",
+    "title": "Evento ao vivo de Halloween no Fortnite quebra recorde de audiência",
+    "date": "27/10/2024",
+    "content": "O evento ao vivo de Halloween do Fortnite atraiu milhões de espectadores, estabelecendo um novo recorde de audiência para transmissões ao vivo de jogos.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "22",
+    "title": "Epic Games processa empresa por venda de cheats no Fortnite",
+    "date": "25/10/2024",
+    "content": "A Epic Games entrou com uma ação legal contra uma empresa acusada de vender trapaças e hacks para o Fortnite, visando proteger a integridade do jogo.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "23",
+    "title": "Fortnite adiciona suporte para ray tracing em consoles de nova geração",
+    "date": "24/10/2024",
+    "content": "A mais recente atualização do Fortnite trouxe suporte para ray tracing nos consoles de nova geração, melhorando significativamente a qualidade gráfica do jogo.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Fortnite"
+  },
+  {
+    "id": "24",
+    "title": "Free Fire lança personagem inspirado em artista brasileiro",
+    "date": "30/10/2024",
+    "content": "A Garena introduziu um novo personagem no Free Fire, inspirado em um artista brasileiro, com habilidades únicas que refletem sua personalidade e estilo.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "25",
+    "title": "Campeonato Mundial de Free Fire terá premiação recorde em 2024",
+    "date": "29/10/2024",
+    "content": "O Campeonato Mundial de Free Fire deste ano contará com a maior premiação já oferecida, atraindo equipes de todo o mundo para competir pelo título.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "26",
+    "title": "Atualização OB46 do Free Fire traz novo mapa e armas",
+    "date": "28/10/2024",
+    "content": "A atualização OB46 introduziu um novo mapa com ambientes diversificados e adicionou várias armas ao arsenal do jogo, oferecendo novas estratégias aos jogadores.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "27",
+    "title": "Evento crossover entre Free Fire e série de TV popular anunciado",
+    "date": "26/10/2024",
+    "content": "A Garena anunciou um evento crossover entre o Free Fire e uma série de TV popular, trazendo skins temáticas e missões especiais inspiradas na série.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "28",
+    "title": "Free Fire implementa sistema anti-cheat aprimorado",
+    "date": "25/10/2024",
+    "content": "Visando melhorar a experiência dos jogadores, o Free Fire implementou um sistema anti-cheat mais robusto para detectar e banir trapaceiros de forma mais eficaz.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Free Fire"
+  },
+  {
+    "id": "29",
+    "title": "Roblox atinge 500 milhões de usuários ativos mensais",
+    "date": "30/10/2024",
+    "content": "O Roblox alcançou a marca de 500 milhões de usuários ativos mensais, destacando seu crescimento contínuo e popularidade global.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "30",
+    "title": "Novo sistema de moderação do Roblox reduz conteúdo inadequado em 70%",
+    "date": "29/10/2024",
+    "content": "Com a implementação de um novo sistema de moderação, o Roblox conseguiu reduzir em 70% a presença de conteúdo inadequado na plataforma, melhorando a segurança para os usuários.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "31",
+    "title": "Roblox anuncia parceria com universidade para cursos de desenvolvimento de jogos",
+    "date": "28/10/2024",
+    "content": "Em colaboração com uma universidade renomada, o Roblox oferecerá cursos de desenvolvimento de jogos, visando capacitar a próxima geração de desenvolvedores.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "32",
+    "title": "Evento virtual no Roblox reúne artistas internacionais para show exclusivo",
+    "date": "27/10/2024",
+    "content": "O Roblox sediou um evento virtual que contou com performances de artistas internacionais, proporcionando uma experiência musical imersiva para os jogadores.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
+  },
+  {
+    "id": "33",
+    "title": "Roblox lança ferramenta de criação de jogos com suporte a realidade aumentada",
+    "date": "26/10/2024",
+    "content": "A nova ferramenta do Roblox permite que os desenvolvedores integrem elementos de realidade aumentada em seus jogos, expandindo as possibilidades criativas na plataforma.",
+    "image": "https://via.placeholder.com/150",
+    "category": "Roblox"
   }
 ]
